@@ -164,7 +164,7 @@ body.fixed {
 
 .wrapper {
   position: relative;
-  background-image: url(../images/bg.png);
+  background-image: url(../images/bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -173,7 +173,7 @@ body.fixed {
 
 @media screen and (max-width: 991px) {
   .wrapper {
-    background-image: url(../images/bg-mob.png);
+    background-image: url(../images/bg-mob.webp);
   }
 }
 
@@ -2021,7 +2021,7 @@ body.fixed {
 }
 
 .team__block:last-child .team__list li::before {
-  background-image: url(../images/arrow-red.png);
+  background-image: url(../images/arrow-red.webp);
 }
 
 .team__content {
@@ -3287,7 +3287,7 @@ body.fixed {
 }
 
 .footer {
-  background-image: url(../images/bg2.png);
+  background-image: url(../images/bg2.webp);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 20px 0;
@@ -3296,7 +3296,7 @@ body.fixed {
 @media screen and (max-width: 767px) {
   .footer {
     padding: 32px 0;
-    background-image: url(../images/bg-mob2.png);
+    background-image: url(../images/bg-mob2.webp);
   }
 }
 
@@ -3572,7 +3572,7 @@ body.fixed {
   width: 100%;
   max-width: 1490px;
   padding: 67px 110px 67px 85px;
-  background: url(../images/bg-form.png);
+  background: url(../images/bg-form.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3812,7 +3812,7 @@ body.fixed {
 .modal__thank {
   width: 100%;
   max-width: 1490px;
-  background: url(../images/bg-form.png);
+  background: url(../images/bg-form.webp);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 0;
